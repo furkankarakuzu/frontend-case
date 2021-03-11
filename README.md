@@ -1,4 +1,7 @@
-# vue-bootstrap
+# vue-frontend-case
+
+Live Demo : https://clever-hawking-30b7be.netlify.app
+<br>
 
 ## Project setup
 ```

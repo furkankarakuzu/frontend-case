@@ -1,0 +1,11 @@
+{
+    "steps" : [
+        {"text":"Idea", "isActive":false, "isDone":true},
+        {"text":"Target Users", "isActive":false, "isDone":true},
+        {"text":"Technology", "isActive":false, "isDone":true},
+        {"text":"Team", "isActive":false, "isDone":true},
+        {"text":"Budget", "isActive":false, "isDone":true},
+        {"text":"File Upload", "isActive":false, "isDone":true},
+        {"text":"Schedule a call", "isActive":true, "isDone":false}
+    ]
+}
